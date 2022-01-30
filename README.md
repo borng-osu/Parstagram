@@ -16,6 +16,10 @@ The following user stories have been implmeneted:
 
 ## Video Walkthrough
 
-Here's a brief video walkthrough of the app in action:
+Here are two gif walkthroughs of the app in action:
 
 <img src='https://i.imgur.com/OFBz8gn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='https://i.imgur.com/J7vB98e.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+[Walkthrough Link](https://i.imgur.com/J7vB98e.gif)
